@@ -1,0 +1,7 @@
+0 0
+1 3
+2 10
+3 5
+4 5
+5 11
+NO NEGATIVE CYCLE
